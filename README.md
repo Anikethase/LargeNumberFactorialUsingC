@@ -13,6 +13,6 @@ The range of -32,768 to 32,767 or -2,147,483,648 to 2,147,483,647. So factorial 
 
 So above attachment gives you the perfect solution for finding Factorial of every number is in your mind.
 
-Not using any Pointer and Structure. It's pretty easy to understand.
+Not used any Pointer and Structure. It's pretty easy to understand.
 
 Thank You!!!!
