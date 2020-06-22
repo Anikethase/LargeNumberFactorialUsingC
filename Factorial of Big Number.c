@@ -1,5 +1,6 @@
 
 // C Program for Calculating factorial of any Big Number.
+// Developer : Aniket Hase
 
 #include<stdio.h> 
 #define MAX 1000
